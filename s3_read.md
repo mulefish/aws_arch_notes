@@ -7,7 +7,7 @@ graph TD
     S3Bucket -->|Return File| Lambda
     Lambda -->|Return File Data| APIGateway
     APIGateway -->|HTTP Response| Client
-    ```
+```
 
 ### CURL
 
