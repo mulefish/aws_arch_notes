@@ -10,7 +10,8 @@ graph TD
     ```
 
 ### CURL
-curl -X GET "https://<api-id>.execute-api.us-east-1.amazonaws.com/read?file=test.txt"
+
+curl -X GET `https://<api-id>.execute-api.us-east-1.amazonaws.com/read?file=test.txt`
 
 
 
